@@ -1,0 +1,60 @@
+html, body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.navbar-brand{
+    font-family: 'Allura';
+    font-size: 30pt;
+}
+
+.navbar-nav{
+    color: black;
+    font-family: 'Barlow Condensed';
+}
+
+.bg-color{
+    background-color: white;
+}
+	
+.nav-link{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+.header{
+    text-align: center;
+    height: 50pt;
+    width: 100%;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190521/pngtree-colorful-abstract-digital-watercolor-background-image_113902.jpg");
+    background-repeat: none;
+    background-size: cover;
+}
+
+.about{
+    font-size: 30pt;
+    font-family: 'Montserrat';
+}
+
+.author{
+    font-size: 40pt;
+    font-family: 'Allura';
+}
+
+.intro{
+    text-align: center;
+    font-family: 'Allura';
+    font-size: 35pt;
+}
+
+.second, .third{
+    text-indent: 100px;
+    text-align: justify;
+    font-family: 'Montserrat';
+    font-size: 13pt;
+}
